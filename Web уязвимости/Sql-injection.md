@@ -40,7 +40,7 @@ $result = mysqli_query($conn, $query);
 
 ```bash
 ' OR '1'='1
-
+```
 
 Запрос станет:
 
